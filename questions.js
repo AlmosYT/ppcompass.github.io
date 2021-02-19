@@ -18,5 +18,5 @@ questions =  [
     {"id": 16, "question": "Owmince has done a good job choosing the mods.", "effects": {"auth": 1}},
     {"id": 17, "question": "Mods don't need limits on their power.", "effects": {"auth": 1}},
     {"id": 18, "question": "Mods should have more power.", "effects": {"auth": 1}},
-    {"id": 19, "question": "Parliament should have more power.", "effects": {"auth": 1}},
+    {"id": 19, "question": "Parliament should have less power.", "effects": {"auth": 1}},
 ];
